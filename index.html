@@ -248,7 +248,8 @@
                 }
             },
             
-            change(i) { document.getElementById('page').src = 'file:///' + i },
+            // change(i) { document.getElementById('page').src = 'file:///' + i },
+            change(i) { document.getElementById('page').src = i },
             kk() { alert(this.message) },
             handleOpen(key, keyPath) {
                 console.log(key, keyPath);
