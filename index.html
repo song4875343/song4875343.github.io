@@ -249,7 +249,9 @@
             },
             
             // change(i) { document.getElementById('page').src = 'file:///' + i },
-            change(i) { document.getElementById('page').src = 'https://song4875343.github.io'+i },
+
+            change(i) {console.log('https://song4875343.github.io'+i);
+                       document.getElementById('page').src = 'https://song4875343.github.io'+i },
             kk() { alert(this.message) },
             handleOpen(key, keyPath) {
                 console.log(key, keyPath);
