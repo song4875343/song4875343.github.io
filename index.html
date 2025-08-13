@@ -150,12 +150,66 @@
             // 添加响应式布局检测
             this.checkViewport();
             window.addEventListener('resize', this.checkViewport);
+
+            // 监听 iframe 加载，重写其中图片为 HTTPS 代理，避免混合内容/证书错误
+            const iframe = document.getElementById('page');
+            this._onIframeLoad = () => {
+                try {
+                    this.rewriteImagesToProxy();
+                } catch (e) {
+                    console.error('rewriteImagesToProxy error:', e);
+                }
+            };
+            if (iframe) {
+                iframe.addEventListener('load', this._onIframeLoad);
+            }
         },
         beforeDestroy() {
             // 移除事件监听
             window.removeEventListener('resize', this.checkViewport);
+            const iframe = document.getElementById('page');
+            if (iframe && this._onIframeLoad) {
+                iframe.removeEventListener('load', this._onIframeLoad);
+            }
         },
         methods: {
+            // 将 iframe 内的外链图片统一改为通过 HTTPS 代理加载，避免混合内容和证书错误
+            rewriteImagesToProxy() {
+                const iframe = document.getElementById('page');
+                if (!iframe) return;
+                const doc = iframe.contentDocument || (iframe.contentWindow && iframe.contentWindow.document);
+                if (!doc) return;
+
+                const toProxy = (u) => {
+                    try {
+                        const abs = new URL(u, doc.baseURI || location.href);
+                        if (abs.protocol === 'data:') return null;
+                        // 同源资源不处理
+                        if (abs.origin === location.origin) return null;
+                        const pathWithQuery = abs.hostname + abs.pathname + (abs.search || '');
+                        return 'https://images.weserv.nl/?url=' + encodeURIComponent(pathWithQuery);
+                    } catch (e) {
+                        return null;
+                    }
+                };
+
+                const images = doc.querySelectorAll('img[src]');
+                images.forEach((img) => {
+                    const src = img.getAttribute('src');
+                    const proxied = toProxy(src);
+                    if (proxied) {
+                        // 失败时再尝试备用代理
+                        img.addEventListener('error', () => {
+                            try {
+                                const abs = new URL(src, doc.baseURI || location.href);
+                                const alt = 'https://wsrv.nl/?url=' + encodeURIComponent(abs.hostname + abs.pathname + (abs.search || ''));
+                                if (img.src !== alt) img.src = alt;
+                            } catch (_) {}
+                        }, { once: true });
+                        img.setAttribute('src', proxied);
+                    }
+                });
+            },
             // 递归展开子树中的路径
             expandSubtree(tree, parentNode, remainingPath) {
                 if (!remainingPath || remainingPath.length === 0) {
@@ -319,10 +373,10 @@
 
     .content-container {
         position: absolute;
-        top: 0;
+        top: 60px; /* 避免被 el-header (默认60px) 遮挡 */
         bottom: 0;
         transition: all 0.3s cubic-bezier(0.33, 1, 0.68, 1);
-        height: 100vh;
+        height: calc(100vh - 60px);
     }
         /* 隐藏所有默认滚动条 */
     ::-webkit-scrollbar {
