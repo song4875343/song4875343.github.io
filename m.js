@@ -10573,682 +10573,316 @@ var list_1 = [
     ]
   },
   {
-    "title": "杂",
-    "index": "kb_杂",
+    "title": "电气",
+    "index": "kb_电气",
     "content": [
       {
         "title": "冷库设计标准",
-        "index": "杂_book_冷库设计标准",
+        "index": "电气_book_冷库设计标准",
         "content": [
           {
             "title": "1总则",
-            "index": "杂_<冷库设计标准>_1",
+            "index": "电气_<冷库设计标准>_1",
             "content": [
               {
                 "title": "1总则",
-                "index": "杂_<冷库设计标准>_1.0",
+                "index": "电气_<冷库设计标准>_1.0",
                 "ul": "C:\\Users\\GIGABYTE\\Desktop\\源代码成果\\rag_git\\standard-rag\\downloads\\冷库设计标准\\0002.html",
-                "net_ul": "https://song4875343.github.io/杂/冷库设计标准/0002.html"
+                "net_ul": "https://song4875343.github.io/电气/冷库设计标准/0002.html"
               }
             ]
           },
           {
             "title": "2术语",
-            "index": "杂_<冷库设计标准>_2",
+            "index": "电气_<冷库设计标准>_2",
             "content": [
               {
                 "title": "2术语",
-                "index": "杂_<冷库设计标准>_2.0",
+                "index": "电气_<冷库设计标准>_2.0",
                 "ul": "C:\\Users\\GIGABYTE\\Desktop\\源代码成果\\rag_git\\standard-rag\\downloads\\冷库设计标准\\0003.html",
-                "net_ul": "https://song4875343.github.io/杂/冷库设计标准/0003.html"
+                "net_ul": "https://song4875343.github.io/电气/冷库设计标准/0003.html"
               }
             ]
           },
           {
             "title": "3基本规定",
-            "index": "杂_<冷库设计标准>_3",
+            "index": "电气_<冷库设计标准>_3",
             "content": [
               {
                 "title": "3基本规定",
-                "index": "杂_<冷库设计标准>_3.0",
+                "index": "电气_<冷库设计标准>_3.0",
                 "ul": "C:\\Users\\GIGABYTE\\Desktop\\源代码成果\\rag_git\\standard-rag\\downloads\\冷库设计标准\\0004.html",
-                "net_ul": "https://song4875343.github.io/杂/冷库设计标准/0004.html"
+                "net_ul": "https://song4875343.github.io/电气/冷库设计标准/0004.html"
               }
             ]
           },
           {
             "title": "4建筑",
-            "index": "杂_<冷库设计标准>_4",
+            "index": "电气_<冷库设计标准>_4",
             "content": [
               {
                 "title": "4．1库址选择与总平面布置",
-                "index": "杂_<冷库设计标准>_4.1",
+                "index": "电气_<冷库设计标准>_4.1",
                 "ul": "C:\\Users\\GIGABYTE\\Desktop\\源代码成果\\rag_git\\standard-rag\\downloads\\冷库设计标准\\0005.html",
-                "net_ul": "https://song4875343.github.io/杂/冷库设计标准/0005.html"
+                "net_ul": "https://song4875343.github.io/电气/冷库设计标准/0005.html"
               },
               {
                 "title": "4．2库房的布置",
-                "index": "杂_<冷库设计标准>_4.2",
+                "index": "电气_<冷库设计标准>_4.2",
                 "ul": "C:\\Users\\GIGABYTE\\Desktop\\源代码成果\\rag_git\\standard-rag\\downloads\\冷库设计标准\\0007.html",
-                "net_ul": "https://song4875343.github.io/杂/冷库设计标准/0007.html"
+                "net_ul": "https://song4875343.github.io/电气/冷库设计标准/0007.html"
               },
               {
                 "title": "4．3库房的保温隔热",
-                "index": "杂_<冷库设计标准>_4.3",
+                "index": "电气_<冷库设计标准>_4.3",
                 "ul": "C:\\Users\\GIGABYTE\\Desktop\\源代码成果\\rag_git\\standard-rag\\downloads\\冷库设计标准\\0008.html",
-                "net_ul": "https://song4875343.github.io/杂/冷库设计标准/0008.html"
+                "net_ul": "https://song4875343.github.io/电气/冷库设计标准/0008.html"
               },
               {
                 "title": "4．4库房的防潮隔汽",
-                "index": "杂_<冷库设计标准>_4.4",
+                "index": "电气_<冷库设计标准>_4.4",
                 "ul": "C:\\Users\\GIGABYTE\\Desktop\\源代码成果\\rag_git\\standard-rag\\downloads\\冷库设计标准\\0009.html",
-                "net_ul": "https://song4875343.github.io/杂/冷库设计标准/0009.html"
+                "net_ul": "https://song4875343.github.io/电气/冷库设计标准/0009.html"
               },
               {
                 "title": "4．5库房的构造要求",
-                "index": "杂_<冷库设计标准>_4.5",
+                "index": "电气_<冷库设计标准>_4.5",
                 "ul": "C:\\Users\\GIGABYTE\\Desktop\\源代码成果\\rag_git\\standard-rag\\downloads\\冷库设计标准\\0010.html",
-                "net_ul": "https://song4875343.github.io/杂/冷库设计标准/0010.html"
+                "net_ul": "https://song4875343.github.io/电气/冷库设计标准/0010.html"
               },
               {
                 "title": "4．6制冷机房、变配电所和控制室",
-                "index": "杂_<冷库设计标准>_4.6",
+                "index": "电气_<冷库设计标准>_4.6",
                 "ul": "C:\\Users\\GIGABYTE\\Desktop\\源代码成果\\rag_git\\standard-rag\\downloads\\冷库设计标准\\0011.html",
-                "net_ul": "https://song4875343.github.io/杂/冷库设计标准/0011.html"
+                "net_ul": "https://song4875343.github.io/电气/冷库设计标准/0011.html"
               }
             ]
           },
           {
             "title": "5结构",
-            "index": "杂_<冷库设计标准>_5",
+            "index": "电气_<冷库设计标准>_5",
             "content": [
               {
                 "title": "5．1—般规定",
-                "index": "杂_<冷库设计标准>_5.1",
+                "index": "电气_<冷库设计标准>_5.1",
                 "ul": "C:\\Users\\GIGABYTE\\Desktop\\源代码成果\\rag_git\\standard-rag\\downloads\\冷库设计标准\\0012.html",
-                "net_ul": "https://song4875343.github.io/杂/冷库设计标准/0012.html"
+                "net_ul": "https://song4875343.github.io/电气/冷库设计标准/0012.html"
               },
               {
                 "title": "5．2荷载",
-                "index": "杂_<冷库设计标准>_5.2",
+                "index": "电气_<冷库设计标准>_5.2",
                 "ul": "C:\\Users\\GIGABYTE\\Desktop\\源代码成果\\rag_git\\standard-rag\\downloads\\冷库设计标准\\0014.html",
-                "net_ul": "https://song4875343.github.io/杂/冷库设计标准/0014.html"
+                "net_ul": "https://song4875343.github.io/电气/冷库设计标准/0014.html"
               },
               {
                 "title": "5．3材料",
-                "index": "杂_<冷库设计标准>_5.3",
+                "index": "电气_<冷库设计标准>_5.3",
                 "ul": "C:\\Users\\GIGABYTE\\Desktop\\源代码成果\\rag_git\\standard-rag\\downloads\\冷库设计标准\\0015.html",
-                "net_ul": "https://song4875343.github.io/杂/冷库设计标准/0015.html"
+                "net_ul": "https://song4875343.github.io/电气/冷库设计标准/0015.html"
               },
               {
                 "title": "5．4防护及涂装",
-                "index": "杂_<冷库设计标准>_5.4",
+                "index": "电气_<冷库设计标准>_5.4",
                 "ul": "C:\\Users\\GIGABYTE\\Desktop\\源代码成果\\rag_git\\standard-rag\\downloads\\冷库设计标准\\0016.html",
-                "net_ul": "https://song4875343.github.io/杂/冷库设计标准/0016.html"
+                "net_ul": "https://song4875343.github.io/电气/冷库设计标准/0016.html"
               }
             ]
           },
           {
             "title": "6制冷",
-            "index": "杂_<冷库设计标准>_6",
+            "index": "电气_<冷库设计标准>_6",
             "content": [
               {
                 "title": "6．1—般规定",
-                "index": "杂_<冷库设计标准>_6.1",
+                "index": "电气_<冷库设计标准>_6.1",
                 "ul": "C:\\Users\\GIGABYTE\\Desktop\\源代码成果\\rag_git\\standard-rag\\downloads\\冷库设计标准\\0017.html",
-                "net_ul": "https://song4875343.github.io/杂/冷库设计标准/0017.html"
+                "net_ul": "https://song4875343.github.io/电气/冷库设计标准/0017.html"
               },
               {
                 "title": "6．2负荷计算",
-                "index": "杂_<冷库设计标准>_6.2",
+                "index": "电气_<冷库设计标准>_6.2",
                 "ul": "C:\\Users\\GIGABYTE\\Desktop\\源代码成果\\rag_git\\standard-rag\\downloads\\冷库设计标准\\0019.html",
-                "net_ul": "https://song4875343.github.io/杂/冷库设计标准/0019.html"
+                "net_ul": "https://song4875343.github.io/电气/冷库设计标准/0019.html"
               },
               {
                 "title": "6．3制冷系统与设备选择",
-                "index": "杂_<冷库设计标准>_6.3",
+                "index": "电气_<冷库设计标准>_6.3",
                 "ul": "C:\\Users\\GIGABYTE\\Desktop\\源代码成果\\rag_git\\standard-rag\\downloads\\冷库设计标准\\0020.html",
-                "net_ul": "https://song4875343.github.io/杂/冷库设计标准/0020.html"
+                "net_ul": "https://song4875343.github.io/电气/冷库设计标准/0020.html"
               },
               {
                 "title": "6．4制冷设备布置",
-                "index": "杂_<冷库设计标准>_6.4",
+                "index": "电气_<冷库设计标准>_6.4",
                 "ul": "C:\\Users\\GIGABYTE\\Desktop\\源代码成果\\rag_git\\standard-rag\\downloads\\冷库设计标准\\0021.html",
-                "net_ul": "https://song4875343.github.io/杂/冷库设计标准/0021.html"
+                "net_ul": "https://song4875343.github.io/电气/冷库设计标准/0021.html"
               },
               {
                 "title": "6．5制冷管道",
-                "index": "杂_<冷库设计标准>_6.5",
+                "index": "电气_<冷库设计标准>_6.5",
                 "ul": "C:\\Users\\GIGABYTE\\Desktop\\源代码成果\\rag_git\\standard-rag\\downloads\\冷库设计标准\\0022.html",
-                "net_ul": "https://song4875343.github.io/杂/冷库设计标准/0022.html"
+                "net_ul": "https://song4875343.github.io/电气/冷库设计标准/0022.html"
               },
               {
                 "title": "6．6制冷管道和设备的保冷、保温和防腐",
-                "index": "杂_<冷库设计标准>_6.6",
+                "index": "电气_<冷库设计标准>_6.6",
                 "ul": "C:\\Users\\GIGABYTE\\Desktop\\源代码成果\\rag_git\\standard-rag\\downloads\\冷库设计标准\\0023.html",
-                "net_ul": "https://song4875343.github.io/杂/冷库设计标准/0023.html"
+                "net_ul": "https://song4875343.github.io/电气/冷库设计标准/0023.html"
               },
               {
                 "title": "6．7制冷系统安全与监控",
-                "index": "杂_<冷库设计标准>_6.7",
+                "index": "电气_<冷库设计标准>_6.7",
                 "ul": "C:\\Users\\GIGABYTE\\Desktop\\源代码成果\\rag_git\\standard-rag\\downloads\\冷库设计标准\\0024.html",
-                "net_ul": "https://song4875343.github.io/杂/冷库设计标准/0024.html"
+                "net_ul": "https://song4875343.github.io/电气/冷库设计标准/0024.html"
               },
               {
                 "title": "6．8制冷系统自动检测与控制",
-                "index": "杂_<冷库设计标准>_6.8",
+                "index": "电气_<冷库设计标准>_6.8",
                 "ul": "C:\\Users\\GIGABYTE\\Desktop\\源代码成果\\rag_git\\standard-rag\\downloads\\冷库设计标准\\0025.html",
-                "net_ul": "https://song4875343.github.io/杂/冷库设计标准/0025.html"
+                "net_ul": "https://song4875343.github.io/电气/冷库设计标准/0025.html"
               }
             ]
           },
           {
             "title": "7电气",
-            "index": "杂_<冷库设计标准>_7",
+            "index": "电气_<冷库设计标准>_7",
             "content": [
               {
                 "title": "7．1供配电",
-                "index": "杂_<冷库设计标准>_7.1",
+                "index": "电气_<冷库设计标准>_7.1",
                 "ul": "C:\\Users\\GIGABYTE\\Desktop\\源代码成果\\rag_git\\standard-rag\\downloads\\冷库设计标准\\0026.html",
-                "net_ul": "https://song4875343.github.io/杂/冷库设计标准/0026.html"
+                "net_ul": "https://song4875343.github.io/电气/冷库设计标准/0026.html"
               },
               {
                 "title": "7．2制冷机房",
-                "index": "杂_<冷库设计标准>_7.2",
+                "index": "电气_<冷库设计标准>_7.2",
                 "ul": "C:\\Users\\GIGABYTE\\Desktop\\源代码成果\\rag_git\\standard-rag\\downloads\\冷库设计标准\\0028.html",
-                "net_ul": "https://song4875343.github.io/杂/冷库设计标准/0028.html"
+                "net_ul": "https://song4875343.github.io/电气/冷库设计标准/0028.html"
               },
               {
                 "title": "7．3库房",
-                "index": "杂_<冷库设计标准>_7.3",
+                "index": "电气_<冷库设计标准>_7.3",
                 "ul": "C:\\Users\\GIGABYTE\\Desktop\\源代码成果\\rag_git\\standard-rag\\downloads\\冷库设计标准\\0029.html",
-                "net_ul": "https://song4875343.github.io/杂/冷库设计标准/0029.html"
+                "net_ul": "https://song4875343.github.io/电气/冷库设计标准/0029.html"
               },
               {
                 "title": "7．4制冷剂泄漏探测报警系统",
-                "index": "杂_<冷库设计标准>_7.4",
+                "index": "电气_<冷库设计标准>_7.4",
                 "ul": "C:\\Users\\GIGABYTE\\Desktop\\源代码成果\\rag_git\\standard-rag\\downloads\\冷库设计标准\\0030.html",
-                "net_ul": "https://song4875343.github.io/杂/冷库设计标准/0030.html"
+                "net_ul": "https://song4875343.github.io/电气/冷库设计标准/0030.html"
               }
             ]
           },
           {
             "title": "8给水排水",
-            "index": "杂_<冷库设计标准>_8",
+            "index": "电气_<冷库设计标准>_8",
             "content": [
               {
                 "title": "8．1一般规定",
-                "index": "杂_<冷库设计标准>_8.1",
+                "index": "电气_<冷库设计标准>_8.1",
                 "ul": "C:\\Users\\GIGABYTE\\Desktop\\源代码成果\\rag_git\\standard-rag\\downloads\\冷库设计标准\\0031.html",
-                "net_ul": "https://song4875343.github.io/杂/冷库设计标准/0031.html"
+                "net_ul": "https://song4875343.github.io/电气/冷库设计标准/0031.html"
               },
               {
                 "title": "8．2给水",
-                "index": "杂_<冷库设计标准>_8.2",
+                "index": "电气_<冷库设计标准>_8.2",
                 "ul": "C:\\Users\\GIGABYTE\\Desktop\\源代码成果\\rag_git\\standard-rag\\downloads\\冷库设计标准\\0033.html",
-                "net_ul": "https://song4875343.github.io/杂/冷库设计标准/0033.html"
+                "net_ul": "https://song4875343.github.io/电气/冷库设计标准/0033.html"
               },
               {
                 "title": "8．3排水",
-                "index": "杂_<冷库设计标准>_8.3",
+                "index": "电气_<冷库设计标准>_8.3",
                 "ul": "C:\\Users\\GIGABYTE\\Desktop\\源代码成果\\rag_git\\standard-rag\\downloads\\冷库设计标准\\0034.html",
-                "net_ul": "https://song4875343.github.io/杂/冷库设计标准/0034.html"
+                "net_ul": "https://song4875343.github.io/电气/冷库设计标准/0034.html"
               },
               {
                 "title": "8．4消防给水与安全防护",
-                "index": "杂_<冷库设计标准>_8.4",
+                "index": "电气_<冷库设计标准>_8.4",
                 "ul": "C:\\Users\\GIGABYTE\\Desktop\\源代码成果\\rag_git\\standard-rag\\downloads\\冷库设计标准\\0035.html",
-                "net_ul": "https://song4875343.github.io/杂/冷库设计标准/0035.html"
+                "net_ul": "https://song4875343.github.io/电气/冷库设计标准/0035.html"
               }
             ]
           },
           {
             "title": "9供暖、通风、空调和地面防冻",
-            "index": "杂_<冷库设计标准>_9",
+            "index": "电气_<冷库设计标准>_9",
             "content": [
               {
                 "title": "9．1一般规定",
-                "index": "杂_<冷库设计标准>_9.1",
+                "index": "电气_<冷库设计标准>_9.1",
                 "ul": "C:\\Users\\GIGABYTE\\Desktop\\源代码成果\\rag_git\\standard-rag\\downloads\\冷库设计标准\\0036.html",
-                "net_ul": "https://song4875343.github.io/杂/冷库设计标准/0036.html"
+                "net_ul": "https://song4875343.github.io/电气/冷库设计标准/0036.html"
               },
               {
                 "title": "9．2供暖与空调",
-                "index": "杂_<冷库设计标准>_9.2",
+                "index": "电气_<冷库设计标准>_9.2",
                 "ul": "C:\\Users\\GIGABYTE\\Desktop\\源代码成果\\rag_git\\standard-rag\\downloads\\冷库设计标准\\0038.html",
-                "net_ul": "https://song4875343.github.io/杂/冷库设计标准/0038.html"
+                "net_ul": "https://song4875343.github.io/电气/冷库设计标准/0038.html"
               },
               {
                 "title": "9．3通风",
-                "index": "杂_<冷库设计标准>_9.3",
+                "index": "电气_<冷库设计标准>_9.3",
                 "ul": "C:\\Users\\GIGABYTE\\Desktop\\源代码成果\\rag_git\\standard-rag\\downloads\\冷库设计标准\\0039.html",
-                "net_ul": "https://song4875343.github.io/杂/冷库设计标准/0039.html"
+                "net_ul": "https://song4875343.github.io/电气/冷库设计标准/0039.html"
               },
               {
                 "title": "9．4地面防冻",
-                "index": "杂_<冷库设计标准>_9.4",
+                "index": "电气_<冷库设计标准>_9.4",
                 "ul": "C:\\Users\\GIGABYTE\\Desktop\\源代码成果\\rag_git\\standard-rag\\downloads\\冷库设计标准\\0040.html",
-                "net_ul": "https://song4875343.github.io/杂/冷库设计标准/0040.html"
+                "net_ul": "https://song4875343.github.io/电气/冷库设计标准/0040.html"
               },
               {
                 "title": "9．5防烟与排烟",
-                "index": "杂_<冷库设计标准>_9.5",
+                "index": "电气_<冷库设计标准>_9.5",
                 "ul": "C:\\Users\\GIGABYTE\\Desktop\\源代码成果\\rag_git\\standard-rag\\downloads\\冷库设计标准\\0041.html",
-                "net_ul": "https://song4875343.github.io/杂/冷库设计标准/0041.html"
+                "net_ul": "https://song4875343.github.io/电气/冷库设计标准/0041.html"
               }
             ]
           },
           {
             "title": "附录A供暖地区机械通风地面防冻加热负荷和机械通风送风量计算",
-            "index": "杂_<冷库设计标准>_A",
+            "index": "电气_<冷库设计标准>_A",
             "content": [
               {
                 "title": "0．1供暖地区地面防冻的加热计算应采用稳定传热计算公式。部分土壤热物理系数宜按表A.0．1的规定确定。",
-                "index": "杂_<冷库设计标准>_0.1",
+                "index": "电气_<冷库设计标准>_0.1",
                 "ul": "C:\\Users\\GIGABYTE\\Desktop\\源代码成果\\rag_git\\standard-rag\\downloads\\冷库设计标准\\0042.html",
-                "net_ul": "https://song4875343.github.io/杂/冷库设计标准/0042.html"
+                "net_ul": "https://song4875343.github.io/电气/冷库设计标准/0042.html"
               }
             ]
           },
           {
             "title": "1总则",
-            "index": "杂_<冷库设计标准>_(条文解释)1",
+            "index": "电气_<冷库设计标准>_(条文解释)1",
             "content": [
               {
                 "title": "1总则",
-                "index": "杂_<冷库设计标准>_(条文解释)1.0",
+                "index": "电气_<冷库设计标准>_(条文解释)1.0",
                 "ul": "C:\\Users\\GIGABYTE\\Desktop\\源代码成果\\rag_git\\standard-rag\\downloads\\冷库设计标准\\0046.html",
-                "net_ul": "https://song4875343.github.io/杂/冷库设计标准/0046.html"
+                "net_ul": "https://song4875343.github.io/电气/冷库设计标准/0046.html"
               }
             ]
           },
           {
             "title": "2术语",
-            "index": "杂_<冷库设计标准>_(条文解释)2",
+            "index": "电气_<冷库设计标准>_(条文解释)2",
             "content": [
               {
                 "title": "2术语",
-                "index": "杂_<冷库设计标准>_(条文解释)2.0",
+                "index": "电气_<冷库设计标准>_(条文解释)2.0",
                 "ul": "C:\\Users\\GIGABYTE\\Desktop\\源代码成果\\rag_git\\standard-rag\\downloads\\冷库设计标准\\0047.html",
-                "net_ul": "https://song4875343.github.io/杂/冷库设计标准/0047.html"
+                "net_ul": "https://song4875343.github.io/电气/冷库设计标准/0047.html"
               }
             ]
           },
           {
             "title": "3基本规定",
-            "index": "杂_<冷库设计标准>_(条文解释)3",
+            "index": "电气_<冷库设计标准>_(条文解释)3",
             "content": [
               {
                 "title": "3基本规定",
-                "index": "杂_<冷库设计标准>_(条文解释)3.0",
+                "index": "电气_<冷库设计标准>_(条文解释)3.0",
                 "ul": "C:\\Users\\GIGABYTE\\Desktop\\源代码成果\\rag_git\\standard-rag\\downloads\\冷库设计标准\\0048.html",
-                "net_ul": "https://song4875343.github.io/杂/冷库设计标准/0048.html"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "冷弯薄壁型钢结构技术规范",
-        "index": "杂_book_冷弯薄壁型钢结构技术规范",
-        "content": [
-          {
-            "title": "1总则",
-            "index": "杂_<冷弯薄壁型钢结构技术规范>_1",
-            "content": [
-              {
-                "title": "1总则",
-                "index": "杂_<冷弯薄壁型钢结构技术规范>_1.0",
-                "ul": "C:\\Users\\GIGABYTE\\Desktop\\源代码成果\\rag_git\\standard-rag\\downloads\\冷弯薄壁型钢结构技术规范\\0002.html",
-                "net_ul": "https://song4875343.github.io/杂/冷弯薄壁型钢结构技术规范/0002.html"
-              }
-            ]
-          },
-          {
-            "title": "2术语、符号",
-            "index": "杂_<冷弯薄壁型钢结构技术规范>_2",
-            "content": [
-              {
-                "title": "2．1术语",
-                "index": "杂_<冷弯薄壁型钢结构技术规范>_2.1",
-                "ul": "C:\\Users\\GIGABYTE\\Desktop\\源代码成果\\rag_git\\standard-rag\\downloads\\冷弯薄壁型钢结构技术规范\\0003.html",
-                "net_ul": "https://song4875343.github.io/杂/冷弯薄壁型钢结构技术规范/0003.html"
-              },
-              {
-                "title": "2．2符号",
-                "index": "杂_<冷弯薄壁型钢结构技术规范>_2.2",
-                "ul": "C:\\Users\\GIGABYTE\\Desktop\\源代码成果\\rag_git\\standard-rag\\downloads\\冷弯薄壁型钢结构技术规范\\0005.html",
-                "net_ul": "https://song4875343.github.io/杂/冷弯薄壁型钢结构技术规范/0005.html"
-              }
-            ]
-          },
-          {
-            "title": "3材料",
-            "index": "杂_<冷弯薄壁型钢结构技术规范>_3",
-            "content": [
-              {
-                "title": "3材料",
-                "index": "杂_<冷弯薄壁型钢结构技术规范>_3.0",
-                "ul": "C:\\Users\\GIGABYTE\\Desktop\\源代码成果\\rag_git\\standard-rag\\downloads\\冷弯薄壁型钢结构技术规范\\0006.html",
-                "net_ul": "https://song4875343.github.io/杂/冷弯薄壁型钢结构技术规范/0006.html"
-              }
-            ]
-          },
-          {
-            "title": "4基本设计规定",
-            "index": "杂_<冷弯薄壁型钢结构技术规范>_4",
-            "content": [
-              {
-                "title": "4．1设计原则",
-                "index": "杂_<冷弯薄壁型钢结构技术规范>_4.1",
-                "ul": "C:\\Users\\GIGABYTE\\Desktop\\源代码成果\\rag_git\\standard-rag\\downloads\\冷弯薄壁型钢结构技术规范\\0007.html",
-                "net_ul": "https://song4875343.github.io/杂/冷弯薄壁型钢结构技术规范/0007.html"
-              },
-              {
-                "title": "4．2设计指标",
-                "index": "杂_<冷弯薄壁型钢结构技术规范>_4.2",
-                "ul": "C:\\Users\\GIGABYTE\\Desktop\\源代码成果\\rag_git\\standard-rag\\downloads\\冷弯薄壁型钢结构技术规范\\0009.html",
-                "net_ul": "https://song4875343.github.io/杂/冷弯薄壁型钢结构技术规范/0009.html"
-              },
-              {
-                "title": "4．3构造的一般规定",
-                "index": "杂_<冷弯薄壁型钢结构技术规范>_4.3",
-                "ul": "C:\\Users\\GIGABYTE\\Desktop\\源代码成果\\rag_git\\standard-rag\\downloads\\冷弯薄壁型钢结构技术规范\\0010.html",
-                "net_ul": "https://song4875343.github.io/杂/冷弯薄壁型钢结构技术规范/0010.html"
-              }
-            ]
-          },
-          {
-            "title": "5构件的计算",
-            "index": "杂_<冷弯薄壁型钢结构技术规范>_5",
-            "content": [
-              {
-                "title": "5．1轴心受拉构件",
-                "index": "杂_<冷弯薄壁型钢结构技术规范>_5.1",
-                "ul": "C:\\Users\\GIGABYTE\\Desktop\\源代码成果\\rag_git\\standard-rag\\downloads\\冷弯薄壁型钢结构技术规范\\0011.html",
-                "net_ul": "https://song4875343.github.io/杂/冷弯薄壁型钢结构技术规范/0011.html"
-              },
-              {
-                "title": "5．2轴心受压构件",
-                "index": "杂_<冷弯薄壁型钢结构技术规范>_5.2",
-                "ul": "C:\\Users\\GIGABYTE\\Desktop\\源代码成果\\rag_git\\standard-rag\\downloads\\冷弯薄壁型钢结构技术规范\\0013.html",
-                "net_ul": "https://song4875343.github.io/杂/冷弯薄壁型钢结构技术规范/0013.html"
-              },
-              {
-                "title": "5．3受弯构件",
-                "index": "杂_<冷弯薄壁型钢结构技术规范>_5.3",
-                "ul": "C:\\Users\\GIGABYTE\\Desktop\\源代码成果\\rag_git\\standard-rag\\downloads\\冷弯薄壁型钢结构技术规范\\0014.html",
-                "net_ul": "https://song4875343.github.io/杂/冷弯薄壁型钢结构技术规范/0014.html"
-              },
-              {
-                "title": "5．4拉弯构件",
-                "index": "杂_<冷弯薄壁型钢结构技术规范>_5.4",
-                "ul": "C:\\Users\\GIGABYTE\\Desktop\\源代码成果\\rag_git\\standard-rag\\downloads\\冷弯薄壁型钢结构技术规范\\0015.html",
-                "net_ul": "https://song4875343.github.io/杂/冷弯薄壁型钢结构技术规范/0015.html"
-              },
-              {
-                "title": "5．5压弯构件",
-                "index": "杂_<冷弯薄壁型钢结构技术规范>_5.5",
-                "ul": "C:\\Users\\GIGABYTE\\Desktop\\源代码成果\\rag_git\\standard-rag\\downloads\\冷弯薄壁型钢结构技术规范\\0016.html",
-                "net_ul": "https://song4875343.github.io/杂/冷弯薄壁型钢结构技术规范/0016.html"
-              },
-              {
-                "title": "5．6构件中的受压板件",
-                "index": "杂_<冷弯薄壁型钢结构技术规范>_5.6",
-                "ul": "C:\\Users\\GIGABYTE\\Desktop\\源代码成果\\rag_git\\standard-rag\\downloads\\冷弯薄壁型钢结构技术规范\\0017.html",
-                "net_ul": "https://song4875343.github.io/杂/冷弯薄壁型钢结构技术规范/0017.html"
-              }
-            ]
-          },
-          {
-            "title": "6连接的计算与构造",
-            "index": "杂_<冷弯薄壁型钢结构技术规范>_6",
-            "content": [
-              {
-                "title": "6．1连接的计算",
-                "index": "杂_<冷弯薄壁型钢结构技术规范>_6.1",
-                "ul": "C:\\Users\\GIGABYTE\\Desktop\\源代码成果\\rag_git\\standard-rag\\downloads\\冷弯薄壁型钢结构技术规范\\0018.html",
-                "net_ul": "https://song4875343.github.io/杂/冷弯薄壁型钢结构技术规范/0018.html"
-              },
-              {
-                "title": "6．2连接的构造",
-                "index": "杂_<冷弯薄壁型钢结构技术规范>_6.2",
-                "ul": "C:\\Users\\GIGABYTE\\Desktop\\源代码成果\\rag_git\\standard-rag\\downloads\\冷弯薄壁型钢结构技术规范\\0020.html",
-                "net_ul": "https://song4875343.github.io/杂/冷弯薄壁型钢结构技术规范/0020.html"
-              }
-            ]
-          },
-          {
-            "title": "7压型钢板",
-            "index": "杂_<冷弯薄壁型钢结构技术规范>_7",
-            "content": [
-              {
-                "title": "7．1压型钢板的计算",
-                "index": "杂_<冷弯薄壁型钢结构技术规范>_7.1",
-                "ul": "C:\\Users\\GIGABYTE\\Desktop\\源代码成果\\rag_git\\standard-rag\\downloads\\冷弯薄壁型钢结构技术规范\\0021.html",
-                "net_ul": "https://song4875343.github.io/杂/冷弯薄壁型钢结构技术规范/0021.html"
-              },
-              {
-                "title": "7．2压型钢板的构造",
-                "index": "杂_<冷弯薄壁型钢结构技术规范>_7.2",
-                "ul": "C:\\Users\\GIGABYTE\\Desktop\\源代码成果\\rag_git\\standard-rag\\downloads\\冷弯薄壁型钢结构技术规范\\0023.html",
-                "net_ul": "https://song4875343.github.io/杂/冷弯薄壁型钢结构技术规范/0023.html"
-              }
-            ]
-          },
-          {
-            "title": "8檩条与墙梁",
-            "index": "杂_<冷弯薄壁型钢结构技术规范>_8",
-            "content": [
-              {
-                "title": "8．1檩条的计算",
-                "index": "杂_<冷弯薄壁型钢结构技术规范>_8.1",
-                "ul": "C:\\Users\\GIGABYTE\\Desktop\\源代码成果\\rag_git\\standard-rag\\downloads\\冷弯薄壁型钢结构技术规范\\0024.html",
-                "net_ul": "https://song4875343.github.io/杂/冷弯薄壁型钢结构技术规范/0024.html"
-              },
-              {
-                "title": "8．2檩条的构造",
-                "index": "杂_<冷弯薄壁型钢结构技术规范>_8.2",
-                "ul": "C:\\Users\\GIGABYTE\\Desktop\\源代码成果\\rag_git\\standard-rag\\downloads\\冷弯薄壁型钢结构技术规范\\0026.html",
-                "net_ul": "https://song4875343.github.io/杂/冷弯薄壁型钢结构技术规范/0026.html"
-              },
-              {
-                "title": "8．3墙梁的计算",
-                "index": "杂_<冷弯薄壁型钢结构技术规范>_8.3",
-                "ul": "C:\\Users\\GIGABYTE\\Desktop\\源代码成果\\rag_git\\standard-rag\\downloads\\冷弯薄壁型钢结构技术规范\\0027.html",
-                "net_ul": "https://song4875343.github.io/杂/冷弯薄壁型钢结构技术规范/0027.html"
-              },
-              {
-                "title": "8．4墙梁的构造",
-                "index": "杂_<冷弯薄壁型钢结构技术规范>_8.4",
-                "ul": "C:\\Users\\GIGABYTE\\Desktop\\源代码成果\\rag_git\\standard-rag\\downloads\\冷弯薄壁型钢结构技术规范\\0028.html",
-                "net_ul": "https://song4875343.github.io/杂/冷弯薄壁型钢结构技术规范/0028.html"
-              }
-            ]
-          },
-          {
-            "title": "9屋架",
-            "index": "杂_<冷弯薄壁型钢结构技术规范>_9",
-            "content": [
-              {
-                "title": "9．1屋架的计算",
-                "index": "杂_<冷弯薄壁型钢结构技术规范>_9.1",
-                "ul": "C:\\Users\\GIGABYTE\\Desktop\\源代码成果\\rag_git\\standard-rag\\downloads\\冷弯薄壁型钢结构技术规范\\0029.html",
-                "net_ul": "https://song4875343.github.io/杂/冷弯薄壁型钢结构技术规范/0029.html"
-              },
-              {
-                "title": "9．2屋架的构造",
-                "index": "杂_<冷弯薄壁型钢结构技术规范>_9.2",
-                "ul": "C:\\Users\\GIGABYTE\\Desktop\\源代码成果\\rag_git\\standard-rag\\downloads\\冷弯薄壁型钢结构技术规范\\0031.html",
-                "net_ul": "https://song4875343.github.io/杂/冷弯薄壁型钢结构技术规范/0031.html"
-              }
-            ]
-          },
-          {
-            "title": "10刚架",
-            "index": "杂_<冷弯薄壁型钢结构技术规范>_10",
-            "content": [
-              {
-                "title": "10．1刚架的计算",
-                "index": "杂_<冷弯薄壁型钢结构技术规范>_10.1",
-                "ul": "C:\\Users\\GIGABYTE\\Desktop\\源代码成果\\rag_git\\standard-rag\\downloads\\冷弯薄壁型钢结构技术规范\\0032.html",
-                "net_ul": "https://song4875343.github.io/杂/冷弯薄壁型钢结构技术规范/0032.html"
-              },
-              {
-                "title": "10．2刚架的构造",
-                "index": "杂_<冷弯薄壁型钢结构技术规范>_10.2",
-                "ul": "C:\\Users\\GIGABYTE\\Desktop\\源代码成果\\rag_git\\standard-rag\\downloads\\冷弯薄壁型钢结构技术规范\\0034.html",
-                "net_ul": "https://song4875343.github.io/杂/冷弯薄壁型钢结构技术规范/0034.html"
-              }
-            ]
-          },
-          {
-            "title": "11制作、安装和防腐蚀",
-            "index": "杂_<冷弯薄壁型钢结构技术规范>_11",
-            "content": [
-              {
-                "title": "11．1制作和安装",
-                "index": "杂_<冷弯薄壁型钢结构技术规范>_11.1",
-                "ul": "C:\\Users\\GIGABYTE\\Desktop\\源代码成果\\rag_git\\standard-rag\\downloads\\冷弯薄壁型钢结构技术规范\\0035.html",
-                "net_ul": "https://song4875343.github.io/杂/冷弯薄壁型钢结构技术规范/0035.html"
-              },
-              {
-                "title": "11．2防腐蚀",
-                "index": "杂_<冷弯薄壁型钢结构技术规范>_11.2",
-                "ul": "C:\\Users\\GIGABYTE\\Desktop\\源代码成果\\rag_git\\standard-rag\\downloads\\冷弯薄壁型钢结构技术规范\\0037.html",
-                "net_ul": "https://song4875343.github.io/杂/冷弯薄壁型钢结构技术规范/0037.html"
-              }
-            ]
-          },
-          {
-            "title": "附录A计算系数",
-            "index": "杂_<冷弯薄壁型钢结构技术规范>_A",
-            "content": [
-              {
-                "title": "附录A计算系数",
-                "index": "杂_<冷弯薄壁型钢结构技术规范>_A.0",
-                "ul": "C:\\Users\\GIGABYTE\\Desktop\\源代码成果\\rag_git\\standard-rag\\downloads\\冷弯薄壁型钢结构技术规范\\0038.html",
-                "net_ul": "https://song4875343.github.io/杂/冷弯薄壁型钢结构技术规范/0038.html"
-              }
-            ]
-          },
-          {
-            "title": "2受弯构件的整体稳定系数",
-            "index": "杂_<冷弯薄壁型钢结构技术规范>_(条文解释)2",
-            "content": [
-              {
-                "title": "2受弯构件的整体稳定系数",
-                "index": "杂_<冷弯薄壁型钢结构技术规范>_2.0",
-                "ul": "C:\\Users\\GIGABYTE\\Desktop\\源代码成果\\rag_git\\standard-rag\\downloads\\冷弯薄壁型钢结构技术规范\\0040.html",
-                "net_ul": "https://song4875343.github.io/杂/冷弯薄壁型钢结构技术规范/0040.html"
-              }
-            ]
-          },
-          {
-            "title": "3刚架柱的计算长度系数",
-            "index": "杂_<冷弯薄壁型钢结构技术规范>_(条文解释)3",
-            "content": [
-              {
-                "title": "3．1等截面刚架柱的计算长度系数μ见表A.3．1。",
-                "index": "杂_<冷弯薄壁型钢结构技术规范>_3.1",
-                "ul": "C:\\Users\\GIGABYTE\\Desktop\\源代码成果\\rag_git\\standard-rag\\downloads\\冷弯薄壁型钢结构技术规范\\0041.html",
-                "net_ul": "https://song4875343.github.io/杂/冷弯薄壁型钢结构技术规范/0041.html"
-              }
-            ]
-          },
-          {
-            "title": "4简支梁的双力矩B的计算",
-            "index": "杂_<冷弯薄壁型钢结构技术规范>_(条文解释)4",
-            "content": [
-              {
-                "title": "4．1简支梁的双力矩B可根据荷载情况按表A.4．1中所列公式计算。",
-                "index": "杂_<冷弯薄壁型钢结构技术规范>_(条文解释)4.1",
-                "ul": "C:\\Users\\GIGABYTE\\Desktop\\源代码成果\\rag_git\\standard-rag\\downloads\\冷弯薄壁型钢结构技术规范\\0042.html",
-                "net_ul": "https://song4875343.github.io/杂/冷弯薄壁型钢结构技术规范/0042.html"
-              }
-            ]
-          },
-          {
-            "title": "附录B截面特性",
-            "index": "杂_<冷弯薄壁型钢结构技术规范>_B",
-            "content": [
-              {
-                "title": "附录B截面特性",
-                "index": "杂_<冷弯薄壁型钢结构技术规范>_B.0",
-                "ul": "C:\\Users\\GIGABYTE\\Desktop\\源代码成果\\rag_git\\standard-rag\\downloads\\冷弯薄壁型钢结构技术规范\\0043.html",
-                "net_ul": "https://song4875343.github.io/杂/冷弯薄壁型钢结构技术规范/0043.html"
-              }
-            ]
-          },
-          {
-            "title": "2截面特性的近似计算公式",
-            "index": "杂_<冷弯薄壁型钢结构技术规范>_(条文解释)2",
-            "content": [
-              {
-                "title": "2截面特性的近似计算公式",
-                "index": "杂_<冷弯薄壁型钢结构技术规范>_(条文解释)2.0",
-                "ul": "C:\\Users\\GIGABYTE\\Desktop\\源代码成果\\rag_git\\standard-rag\\downloads\\冷弯薄壁型钢结构技术规范\\0045.html",
-                "net_ul": "https://song4875343.github.io/杂/冷弯薄壁型钢结构技术规范/0045.html"
-              }
-            ]
-          },
-          {
-            "title": "附录C考虑冷弯效应的强度设计值的计算方法",
-            "index": "杂_<冷弯薄壁型钢结构技术规范>_C",
-            "content": [
-              {
-                "title": "0．1考虑冷弯效应的强度设计值f＇可按下式计算：",
-                "index": "杂_<冷弯薄壁型钢结构技术规范>_0.1",
-                "ul": "C:\\Users\\GIGABYTE\\Desktop\\源代码成果\\rag_git\\standard-rag\\downloads\\冷弯薄壁型钢结构技术规范\\0046.html",
-                "net_ul": "https://song4875343.github.io/杂/冷弯薄壁型钢结构技术规范/0046.html"
-              }
-            ]
-          },
-          {
-            "title": "附录D侵蚀作用分类和防腐涂料底、面漆配套及维护年限",
-            "index": "杂_<冷弯薄壁型钢结构技术规范>_D",
-            "content": [
-              {
-                "title": "0．1外界条件对冷弯薄壁型钢结构的侵蚀作用分类可按表D.0．1采用。",
-                "index": "杂_<冷弯薄壁型钢结构技术规范>_(条文解释)0.1",
-                "ul": "C:\\Users\\GIGABYTE\\Desktop\\源代码成果\\rag_git\\standard-rag\\downloads\\冷弯薄壁型钢结构技术规范\\0047.html",
-                "net_ul": "https://song4875343.github.io/杂/冷弯薄壁型钢结构技术规范/0047.html"
-              }
-            ]
-          },
-          {
-            "title": "1总则",
-            "index": "杂_<冷弯薄壁型钢结构技术规范>_(条文解释)1",
-            "content": [
-              {
-                "title": "1总则",
-                "index": "杂_<冷弯薄壁型钢结构技术规范>_(条文解释)1.0",
-                "ul": "C:\\Users\\GIGABYTE\\Desktop\\源代码成果\\rag_git\\standard-rag\\downloads\\冷弯薄壁型钢结构技术规范\\0050.html",
-                "net_ul": "https://song4875343.github.io/杂/冷弯薄壁型钢结构技术规范/0050.html"
-              }
-            ]
-          },
-          {
-            "title": "3材料",
-            "index": "杂_<冷弯薄壁型钢结构技术规范>_(条文解释)3",
-            "content": [
-              {
-                "title": "3材料",
-                "index": "杂_<冷弯薄壁型钢结构技术规范>_(条文解释)3.0",
-                "ul": "C:\\Users\\GIGABYTE\\Desktop\\源代码成果\\rag_git\\standard-rag\\downloads\\冷弯薄壁型钢结构技术规范\\0051.html",
-                "net_ul": "https://song4875343.github.io/杂/冷弯薄壁型钢结构技术规范/0051.html"
-              }
-            ]
-          },
-          {
-            "title": "4基本设计规定",
-            "index": "杂_<冷弯薄壁型钢结构技术规范>_(条文解释)4",
-            "content": [
-              {
-                "title": "4．1设计原则",
-                "index": "杂_<冷弯薄壁型钢结构技术规范>_(条文解释)4.1",
-                "ul": "C:\\Users\\GIGABYTE\\Desktop\\源代码成果\\rag_git\\standard-rag\\downloads\\冷弯薄壁型钢结构技术规范\\0052.html",
-                "net_ul": "https://song4875343.github.io/杂/冷弯薄壁型钢结构技术规范/0052.html"
+                "net_ul": "https://song4875343.github.io/电气/冷库设计标准/0048.html"
               }
             ]
           }
@@ -11256,77 +10890,77 @@ var list_1 = [
       },
       {
         "title": "电动机能效限定值及能效等级",
-        "index": "杂_book_电动机能效限定值及能效等级",
+        "index": "电气_book_电动机能效限定值及能效等级",
         "content": [
           {
             "title": "1范围",
-            "index": "杂_<电动机能效限定值及能效等级>_1",
+            "index": "电气_<电动机能效限定值及能效等级>_1",
             "content": [
               {
                 "title": "1范围",
-                "index": "杂_<电动机能效限定值及能效等级>_1.0",
+                "index": "电气_<电动机能效限定值及能效等级>_1.0",
                 "ul": "C:\\Users\\GIGABYTE\\Desktop\\源代码成果\\rag_git\\standard-rag\\downloads\\电动机能效限定值及能效等级\\0002.html",
-                "net_ul": "https://song4875343.github.io/杂/电动机能效限定值及能效等级/0002.html"
+                "net_ul": "https://song4875343.github.io/电气/电动机能效限定值及能效等级/0002.html"
               }
             ]
           },
           {
             "title": "2规范性引用文件",
-            "index": "杂_<电动机能效限定值及能效等级>_2",
+            "index": "电气_<电动机能效限定值及能效等级>_2",
             "content": [
               {
                 "title": "2规范性引用文件",
-                "index": "杂_<电动机能效限定值及能效等级>_2.0",
+                "index": "电气_<电动机能效限定值及能效等级>_2.0",
                 "ul": "C:\\Users\\GIGABYTE\\Desktop\\源代码成果\\rag_git\\standard-rag\\downloads\\电动机能效限定值及能效等级\\0003.html",
-                "net_ul": "https://song4875343.github.io/杂/电动机能效限定值及能效等级/0003.html"
+                "net_ul": "https://song4875343.github.io/电气/电动机能效限定值及能效等级/0003.html"
               }
             ]
           },
           {
             "title": "3术语和定义",
-            "index": "杂_<电动机能效限定值及能效等级>_3",
+            "index": "电气_<电动机能效限定值及能效等级>_3",
             "content": [
               {
                 "title": "3术语和定义",
-                "index": "杂_<电动机能效限定值及能效等级>_3.0",
+                "index": "电气_<电动机能效限定值及能效等级>_3.0",
                 "ul": "C:\\Users\\GIGABYTE\\Desktop\\源代码成果\\rag_git\\standard-rag\\downloads\\电动机能效限定值及能效等级\\0004.html",
-                "net_ul": "https://song4875343.github.io/杂/电动机能效限定值及能效等级/0004.html"
+                "net_ul": "https://song4875343.github.io/电气/电动机能效限定值及能效等级/0004.html"
               }
             ]
           },
           {
             "title": "4能效等级",
-            "index": "杂_<电动机能效限定值及能效等级>_4",
+            "index": "电气_<电动机能效限定值及能效等级>_4",
             "content": [
               {
                 "title": "5171．1-2014的表18及相应产品标准的规定。表中未列出额定功率值的电动机，其效率可用线性插值法确定。",
-                "index": "杂_<电动机能效限定值及能效等级>_5171.1",
+                "index": "电气_<电动机能效限定值及能效等级>_5171.1",
                 "ul": "C:\\Users\\GIGABYTE\\Desktop\\源代码成果\\rag_git\\standard-rag\\downloads\\电动机能效限定值及能效等级\\0005.html",
-                "net_ul": "https://song4875343.github.io/杂/电动机能效限定值及能效等级/0005.html"
+                "net_ul": "https://song4875343.github.io/电气/电动机能效限定值及能效等级/0005.html"
               }
             ]
           },
           {
             "title": "5技术要求",
-            "index": "杂_<电动机能效限定值及能效等级>_5",
+            "index": "电气_<电动机能效限定值及能效等级>_5",
             "content": [
               {
                 "title": "5．1基本要求",
-                "index": "杂_<电动机能效限定值及能效等级>_5.1",
+                "index": "电气_<电动机能效限定值及能效等级>_5.1",
                 "ul": "C:\\Users\\GIGABYTE\\Desktop\\源代码成果\\rag_git\\standard-rag\\downloads\\电动机能效限定值及能效等级\\0006.html",
-                "net_ul": "https://song4875343.github.io/杂/电动机能效限定值及能效等级/0006.html"
+                "net_ul": "https://song4875343.github.io/电气/电动机能效限定值及能效等级/0006.html"
               }
             ]
           },
           {
             "title": "6试验方法",
-            "index": "杂_<电动机能效限定值及能效等级>_6",
+            "index": "电气_<电动机能效限定值及能效等级>_6",
             "content": [
               {
                 "title": "6试验方法",
-                "index": "杂_<电动机能效限定值及能效等级>_6.0",
+                "index": "电气_<电动机能效限定值及能效等级>_6.0",
                 "ul": "C:\\Users\\GIGABYTE\\Desktop\\源代码成果\\rag_git\\standard-rag\\downloads\\电动机能效限定值及能效等级\\0007.html",
-                "net_ul": "https://song4875343.github.io/杂/电动机能效限定值及能效等级/0007.html"
+                "net_ul": "https://song4875343.github.io/电气/电动机能效限定值及能效等级/0007.html"
               }
             ]
           }
@@ -11334,275 +10968,647 @@ var list_1 = [
       },
       {
         "title": "通用用电设备配电设计规范",
-        "index": "杂_book_通用用电设备配电设计规范",
+        "index": "电气_book_通用用电设备配电设计规范",
         "content": [
           {
             "title": "1总则",
-            "index": "杂_<通用用电设备配电设计规范>_1",
+            "index": "电气_<通用用电设备配电设计规范>_1",
             "content": [
               {
                 "title": "1总则",
-                "index": "杂_<通用用电设备配电设计规范>_1.0",
+                "index": "电气_<通用用电设备配电设计规范>_1.0",
                 "ul": "C:\\Users\\GIGABYTE\\Desktop\\源代码成果\\rag_git\\standard-rag\\downloads\\通用用电设备配电设计规范\\0002.html",
-                "net_ul": "https://song4875343.github.io/杂/通用用电设备配电设计规范/0002.html"
+                "net_ul": "https://song4875343.github.io/电气/通用用电设备配电设计规范/0002.html"
               }
             ]
           },
           {
             "title": "2电动机",
-            "index": "杂_<通用用电设备配电设计规范>_2",
+            "index": "电气_<通用用电设备配电设计规范>_2",
             "content": [
               {
                 "title": "2．1电动机的选择",
-                "index": "杂_<通用用电设备配电设计规范>_2.1",
+                "index": "电气_<通用用电设备配电设计规范>_2.1",
                 "ul": "C:\\Users\\GIGABYTE\\Desktop\\源代码成果\\rag_git\\standard-rag\\downloads\\通用用电设备配电设计规范\\0003.html",
-                "net_ul": "https://song4875343.github.io/杂/通用用电设备配电设计规范/0003.html"
+                "net_ul": "https://song4875343.github.io/电气/通用用电设备配电设计规范/0003.html"
               },
               {
                 "title": "2．2电动机的起动",
-                "index": "杂_<通用用电设备配电设计规范>_2.2",
+                "index": "电气_<通用用电设备配电设计规范>_2.2",
                 "ul": "C:\\Users\\GIGABYTE\\Desktop\\源代码成果\\rag_git\\standard-rag\\downloads\\通用用电设备配电设计规范\\0005.html",
-                "net_ul": "https://song4875343.github.io/杂/通用用电设备配电设计规范/0005.html"
+                "net_ul": "https://song4875343.github.io/电气/通用用电设备配电设计规范/0005.html"
               },
               {
                 "title": "2．3低压电动机的保护",
-                "index": "杂_<通用用电设备配电设计规范>_2.3",
+                "index": "电气_<通用用电设备配电设计规范>_2.3",
                 "ul": "C:\\Users\\GIGABYTE\\Desktop\\源代码成果\\rag_git\\standard-rag\\downloads\\通用用电设备配电设计规范\\0006.html",
-                "net_ul": "https://song4875343.github.io/杂/通用用电设备配电设计规范/0006.html"
+                "net_ul": "https://song4875343.github.io/电气/通用用电设备配电设计规范/0006.html"
               },
               {
                 "title": "2．4低压交流电动机的主回路",
-                "index": "杂_<通用用电设备配电设计规范>_2.4",
+                "index": "电气_<通用用电设备配电设计规范>_2.4",
                 "ul": "C:\\Users\\GIGABYTE\\Desktop\\源代码成果\\rag_git\\standard-rag\\downloads\\通用用电设备配电设计规范\\0007.html",
-                "net_ul": "https://song4875343.github.io/杂/通用用电设备配电设计规范/0007.html"
+                "net_ul": "https://song4875343.github.io/电气/通用用电设备配电设计规范/0007.html"
               },
               {
                 "title": "2．5低压交流电动机的控制回路",
-                "index": "杂_<通用用电设备配电设计规范>_2.5",
+                "index": "电气_<通用用电设备配电设计规范>_2.5",
                 "ul": "C:\\Users\\GIGABYTE\\Desktop\\源代码成果\\rag_git\\standard-rag\\downloads\\通用用电设备配电设计规范\\0008.html",
-                "net_ul": "https://song4875343.github.io/杂/通用用电设备配电设计规范/0008.html"
+                "net_ul": "https://song4875343.github.io/电气/通用用电设备配电设计规范/0008.html"
               },
               {
                 "title": "2．63kV～10kV电动机",
-                "index": "杂_<通用用电设备配电设计规范>_2.63",
+                "index": "电气_<通用用电设备配电设计规范>_2.63",
                 "ul": "C:\\Users\\GIGABYTE\\Desktop\\源代码成果\\rag_git\\standard-rag\\downloads\\通用用电设备配电设计规范\\0009.html",
-                "net_ul": "https://song4875343.github.io/杂/通用用电设备配电设计规范/0009.html"
+                "net_ul": "https://song4875343.github.io/电气/通用用电设备配电设计规范/0009.html"
               }
             ]
           },
           {
             "title": "3起重运输设备",
-            "index": "杂_<通用用电设备配电设计规范>_3",
+            "index": "电气_<通用用电设备配电设计规范>_3",
             "content": [
               {
                 "title": "3．1起重机",
-                "index": "杂_<通用用电设备配电设计规范>_3.1",
+                "index": "电气_<通用用电设备配电设计规范>_3.1",
                 "ul": "C:\\Users\\GIGABYTE\\Desktop\\源代码成果\\rag_git\\standard-rag\\downloads\\通用用电设备配电设计规范\\0010.html",
-                "net_ul": "https://song4875343.github.io/杂/通用用电设备配电设计规范/0010.html"
+                "net_ul": "https://song4875343.github.io/电气/通用用电设备配电设计规范/0010.html"
               },
               {
                 "title": "3．2胶带输送机运输线",
-                "index": "杂_<通用用电设备配电设计规范>_3.2",
+                "index": "电气_<通用用电设备配电设计规范>_3.2",
                 "ul": "C:\\Users\\GIGABYTE\\Desktop\\源代码成果\\rag_git\\standard-rag\\downloads\\通用用电设备配电设计规范\\0012.html",
-                "net_ul": "https://song4875343.github.io/杂/通用用电设备配电设计规范/0012.html"
+                "net_ul": "https://song4875343.github.io/电气/通用用电设备配电设计规范/0012.html"
               },
               {
                 "title": "3．3电梯和自动扶梯",
-                "index": "杂_<通用用电设备配电设计规范>_3.3",
+                "index": "电气_<通用用电设备配电设计规范>_3.3",
                 "ul": "C:\\Users\\GIGABYTE\\Desktop\\源代码成果\\rag_git\\standard-rag\\downloads\\通用用电设备配电设计规范\\0013.html",
-                "net_ul": "https://song4875343.github.io/杂/通用用电设备配电设计规范/0013.html"
+                "net_ul": "https://song4875343.github.io/电气/通用用电设备配电设计规范/0013.html"
               }
             ]
           },
           {
             "title": "4电焊机",
-            "index": "杂_<通用用电设备配电设计规范>_4",
+            "index": "电气_<通用用电设备配电设计规范>_4",
             "content": [
               {
                 "title": "4电焊机",
-                "index": "杂_<通用用电设备配电设计规范>_4.0",
+                "index": "电气_<通用用电设备配电设计规范>_4.0",
                 "ul": "C:\\Users\\GIGABYTE\\Desktop\\源代码成果\\rag_git\\standard-rag\\downloads\\通用用电设备配电设计规范\\0014.html",
-                "net_ul": "https://song4875343.github.io/杂/通用用电设备配电设计规范/0014.html"
+                "net_ul": "https://song4875343.github.io/电气/通用用电设备配电设计规范/0014.html"
               }
             ]
           },
           {
             "title": "5电镀",
-            "index": "杂_<通用用电设备配电设计规范>_5",
+            "index": "电气_<通用用电设备配电设计规范>_5",
             "content": [
               {
                 "title": "5电镀",
-                "index": "杂_<通用用电设备配电设计规范>_5.0",
+                "index": "电气_<通用用电设备配电设计规范>_5.0",
                 "ul": "C:\\Users\\GIGABYTE\\Desktop\\源代码成果\\rag_git\\standard-rag\\downloads\\通用用电设备配电设计规范\\0015.html",
-                "net_ul": "https://song4875343.github.io/杂/通用用电设备配电设计规范/0015.html"
+                "net_ul": "https://song4875343.github.io/电气/通用用电设备配电设计规范/0015.html"
               }
             ]
           },
           {
             "title": "6蓄电池充电",
-            "index": "杂_<通用用电设备配电设计规范>_6",
+            "index": "电气_<通用用电设备配电设计规范>_6",
             "content": [
               {
                 "title": "6蓄电池充电",
-                "index": "杂_<通用用电设备配电设计规范>_6.0",
+                "index": "电气_<通用用电设备配电设计规范>_6.0",
                 "ul": "C:\\Users\\GIGABYTE\\Desktop\\源代码成果\\rag_git\\standard-rag\\downloads\\通用用电设备配电设计规范\\0016.html",
-                "net_ul": "https://song4875343.github.io/杂/通用用电设备配电设计规范/0016.html"
+                "net_ul": "https://song4875343.github.io/电气/通用用电设备配电设计规范/0016.html"
               }
             ]
           },
           {
             "title": "7静电滤清器电源",
-            "index": "杂_<通用用电设备配电设计规范>_7",
+            "index": "电气_<通用用电设备配电设计规范>_7",
             "content": [
               {
                 "title": "7静电滤清器电源",
-                "index": "杂_<通用用电设备配电设计规范>_7.0",
+                "index": "电气_<通用用电设备配电设计规范>_7.0",
                 "ul": "C:\\Users\\GIGABYTE\\Desktop\\源代码成果\\rag_git\\standard-rag\\downloads\\通用用电设备配电设计规范\\0017.html",
-                "net_ul": "https://song4875343.github.io/杂/通用用电设备配电设计规范/0017.html"
+                "net_ul": "https://song4875343.github.io/电气/通用用电设备配电设计规范/0017.html"
               }
             ]
           },
           {
             "title": "8室内日用电器",
-            "index": "杂_<通用用电设备配电设计规范>_8",
+            "index": "电气_<通用用电设备配电设计规范>_8",
             "content": [
               {
                 "title": "8室内日用电器",
-                "index": "杂_<通用用电设备配电设计规范>_8.0",
+                "index": "电气_<通用用电设备配电设计规范>_8.0",
                 "ul": "C:\\Users\\GIGABYTE\\Desktop\\源代码成果\\rag_git\\standard-rag\\downloads\\通用用电设备配电设计规范\\0018.html",
-                "net_ul": "https://song4875343.github.io/杂/通用用电设备配电设计规范/0018.html"
+                "net_ul": "https://song4875343.github.io/电气/通用用电设备配电设计规范/0018.html"
               }
             ]
           },
           {
             "title": "1总则",
-            "index": "杂_<通用用电设备配电设计规范>_(条文解释)1",
+            "index": "电气_<通用用电设备配电设计规范>_(条文解释)1",
             "content": [
               {
                 "title": "1总则",
-                "index": "杂_<通用用电设备配电设计规范>_(条文解释)1.0",
+                "index": "电气_<通用用电设备配电设计规范>_(条文解释)1.0",
                 "ul": "C:\\Users\\GIGABYTE\\Desktop\\源代码成果\\rag_git\\standard-rag\\downloads\\通用用电设备配电设计规范\\0022.html",
-                "net_ul": "https://song4875343.github.io/杂/通用用电设备配电设计规范/0022.html"
+                "net_ul": "https://song4875343.github.io/电气/通用用电设备配电设计规范/0022.html"
               }
             ]
           },
           {
             "title": "2电动机",
-            "index": "杂_<通用用电设备配电设计规范>_(条文解释)2",
+            "index": "电气_<通用用电设备配电设计规范>_(条文解释)2",
             "content": [
               {
                 "title": "2．1电动机的选择",
-                "index": "杂_<通用用电设备配电设计规范>_(条文解释)2.1",
+                "index": "电气_<通用用电设备配电设计规范>_(条文解释)2.1",
                 "ul": "C:\\Users\\GIGABYTE\\Desktop\\源代码成果\\rag_git\\standard-rag\\downloads\\通用用电设备配电设计规范\\0023.html",
-                "net_ul": "https://song4875343.github.io/杂/通用用电设备配电设计规范/0023.html"
+                "net_ul": "https://song4875343.github.io/电气/通用用电设备配电设计规范/0023.html"
               },
               {
                 "title": "2．2电动机的起动",
-                "index": "杂_<通用用电设备配电设计规范>_(条文解释)2.2",
+                "index": "电气_<通用用电设备配电设计规范>_(条文解释)2.2",
                 "ul": "C:\\Users\\GIGABYTE\\Desktop\\源代码成果\\rag_git\\standard-rag\\downloads\\通用用电设备配电设计规范\\0025.html",
-                "net_ul": "https://song4875343.github.io/杂/通用用电设备配电设计规范/0025.html"
+                "net_ul": "https://song4875343.github.io/电气/通用用电设备配电设计规范/0025.html"
               },
               {
                 "title": "2．3低压电动机的保护",
-                "index": "杂_<通用用电设备配电设计规范>_(条文解释)2.3",
+                "index": "电气_<通用用电设备配电设计规范>_(条文解释)2.3",
                 "ul": "C:\\Users\\GIGABYTE\\Desktop\\源代码成果\\rag_git\\standard-rag\\downloads\\通用用电设备配电设计规范\\0026.html",
-                "net_ul": "https://song4875343.github.io/杂/通用用电设备配电设计规范/0026.html"
+                "net_ul": "https://song4875343.github.io/电气/通用用电设备配电设计规范/0026.html"
               },
               {
                 "title": "2．4低压交流电动机的主回路",
-                "index": "杂_<通用用电设备配电设计规范>_(条文解释)2.4",
+                "index": "电气_<通用用电设备配电设计规范>_(条文解释)2.4",
                 "ul": "C:\\Users\\GIGABYTE\\Desktop\\源代码成果\\rag_git\\standard-rag\\downloads\\通用用电设备配电设计规范\\0027.html",
-                "net_ul": "https://song4875343.github.io/杂/通用用电设备配电设计规范/0027.html"
+                "net_ul": "https://song4875343.github.io/电气/通用用电设备配电设计规范/0027.html"
               },
               {
                 "title": "2．5低压交流电动机的控制回路",
-                "index": "杂_<通用用电设备配电设计规范>_(条文解释)2.5",
+                "index": "电气_<通用用电设备配电设计规范>_(条文解释)2.5",
                 "ul": "C:\\Users\\GIGABYTE\\Desktop\\源代码成果\\rag_git\\standard-rag\\downloads\\通用用电设备配电设计规范\\0028.html",
-                "net_ul": "https://song4875343.github.io/杂/通用用电设备配电设计规范/0028.html"
+                "net_ul": "https://song4875343.github.io/电气/通用用电设备配电设计规范/0028.html"
               }
             ]
           },
           {
             "title": "3起重运输设备",
-            "index": "杂_<通用用电设备配电设计规范>_(条文解释)3",
+            "index": "电气_<通用用电设备配电设计规范>_(条文解释)3",
             "content": [
               {
                 "title": "3．1起重机",
-                "index": "杂_<通用用电设备配电设计规范>_(条文解释)3.1",
+                "index": "电气_<通用用电设备配电设计规范>_(条文解释)3.1",
                 "ul": "C:\\Users\\GIGABYTE\\Desktop\\源代码成果\\rag_git\\standard-rag\\downloads\\通用用电设备配电设计规范\\0029.html",
-                "net_ul": "https://song4875343.github.io/杂/通用用电设备配电设计规范/0029.html"
+                "net_ul": "https://song4875343.github.io/电气/通用用电设备配电设计规范/0029.html"
               },
               {
                 "title": "3．2胶带输送机运输线",
-                "index": "杂_<通用用电设备配电设计规范>_(条文解释)3.2",
+                "index": "电气_<通用用电设备配电设计规范>_(条文解释)3.2",
                 "ul": "C:\\Users\\GIGABYTE\\Desktop\\源代码成果\\rag_git\\standard-rag\\downloads\\通用用电设备配电设计规范\\0031.html",
-                "net_ul": "https://song4875343.github.io/杂/通用用电设备配电设计规范/0031.html"
+                "net_ul": "https://song4875343.github.io/电气/通用用电设备配电设计规范/0031.html"
               },
               {
                 "title": "3．3电梯和自动扶梯",
-                "index": "杂_<通用用电设备配电设计规范>_(条文解释)3.3",
+                "index": "电气_<通用用电设备配电设计规范>_(条文解释)3.3",
                 "ul": "C:\\Users\\GIGABYTE\\Desktop\\源代码成果\\rag_git\\standard-rag\\downloads\\通用用电设备配电设计规范\\0032.html",
-                "net_ul": "https://song4875343.github.io/杂/通用用电设备配电设计规范/0032.html"
+                "net_ul": "https://song4875343.github.io/电气/通用用电设备配电设计规范/0032.html"
               }
             ]
           },
           {
             "title": "4电焊机",
-            "index": "杂_<通用用电设备配电设计规范>_(条文解释)4",
+            "index": "电气_<通用用电设备配电设计规范>_(条文解释)4",
             "content": [
               {
                 "title": "4电焊机",
-                "index": "杂_<通用用电设备配电设计规范>_(条文解释)4.0",
+                "index": "电气_<通用用电设备配电设计规范>_(条文解释)4.0",
                 "ul": "C:\\Users\\GIGABYTE\\Desktop\\源代码成果\\rag_git\\standard-rag\\downloads\\通用用电设备配电设计规范\\0033.html",
-                "net_ul": "https://song4875343.github.io/杂/通用用电设备配电设计规范/0033.html"
+                "net_ul": "https://song4875343.github.io/电气/通用用电设备配电设计规范/0033.html"
               }
             ]
           },
           {
             "title": "5电镀",
-            "index": "杂_<通用用电设备配电设计规范>_(条文解释)5",
+            "index": "电气_<通用用电设备配电设计规范>_(条文解释)5",
             "content": [
               {
                 "title": "5电镀",
-                "index": "杂_<通用用电设备配电设计规范>_(条文解释)5.0",
+                "index": "电气_<通用用电设备配电设计规范>_(条文解释)5.0",
                 "ul": "C:\\Users\\GIGABYTE\\Desktop\\源代码成果\\rag_git\\standard-rag\\downloads\\通用用电设备配电设计规范\\0034.html",
-                "net_ul": "https://song4875343.github.io/杂/通用用电设备配电设计规范/0034.html"
+                "net_ul": "https://song4875343.github.io/电气/通用用电设备配电设计规范/0034.html"
               }
             ]
           },
           {
             "title": "6蓄电池充电",
-            "index": "杂_<通用用电设备配电设计规范>_(条文解释)6",
+            "index": "电气_<通用用电设备配电设计规范>_(条文解释)6",
             "content": [
               {
                 "title": "6蓄电池充电",
-                "index": "杂_<通用用电设备配电设计规范>_(条文解释)6.0",
+                "index": "电气_<通用用电设备配电设计规范>_(条文解释)6.0",
                 "ul": "C:\\Users\\GIGABYTE\\Desktop\\源代码成果\\rag_git\\standard-rag\\downloads\\通用用电设备配电设计规范\\0035.html",
-                "net_ul": "https://song4875343.github.io/杂/通用用电设备配电设计规范/0035.html"
+                "net_ul": "https://song4875343.github.io/电气/通用用电设备配电设计规范/0035.html"
               }
             ]
           },
           {
             "title": "7静电滤清器电源",
-            "index": "杂_<通用用电设备配电设计规范>_(条文解释)7",
+            "index": "电气_<通用用电设备配电设计规范>_(条文解释)7",
             "content": [
               {
                 "title": "7静电滤清器电源",
-                "index": "杂_<通用用电设备配电设计规范>_(条文解释)7.0",
+                "index": "电气_<通用用电设备配电设计规范>_(条文解释)7.0",
                 "ul": "C:\\Users\\GIGABYTE\\Desktop\\源代码成果\\rag_git\\standard-rag\\downloads\\通用用电设备配电设计规范\\0036.html",
-                "net_ul": "https://song4875343.github.io/杂/通用用电设备配电设计规范/0036.html"
+                "net_ul": "https://song4875343.github.io/电气/通用用电设备配电设计规范/0036.html"
               }
             ]
           },
           {
             "title": "8室内日用电器",
-            "index": "杂_<通用用电设备配电设计规范>_(条文解释)8",
+            "index": "电气_<通用用电设备配电设计规范>_(条文解释)8",
             "content": [
               {
                 "title": "8室内日用电器",
-                "index": "杂_<通用用电设备配电设计规范>_(条文解释)8.0",
+                "index": "电气_<通用用电设备配电设计规范>_(条文解释)8.0",
                 "ul": "C:\\Users\\GIGABYTE\\Desktop\\源代码成果\\rag_git\\standard-rag\\downloads\\通用用电设备配电设计规范\\0037.html",
-                "net_ul": "https://song4875343.github.io/杂/通用用电设备配电设计规范/0037.html"
+                "net_ul": "https://song4875343.github.io/电气/通用用电设备配电设计规范/0037.html"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "test",
+    "index": "kb_test",
+    "content": [
+      {
+        "title": "冷弯薄壁型钢结构技术规范",
+        "index": "test_book_冷弯薄壁型钢结构技术规范",
+        "content": [
+          {
+            "title": "1总则",
+            "index": "test_<冷弯薄壁型钢结构技术规范>_1",
+            "content": [
+              {
+                "title": "1总则",
+                "index": "test_<冷弯薄壁型钢结构技术规范>_1.0",
+                "ul": "C:\\Users\\GIGABYTE\\Desktop\\源代码成果\\rag_git\\standard-rag\\test\\冷弯薄壁型钢结构技术规范\\0002.html",
+                "net_ul": "https://song4875343.github.io/test/冷弯薄壁型钢结构技术规范/0002.html"
+              }
+            ]
+          },
+          {
+            "title": "2术语、符号",
+            "index": "test_<冷弯薄壁型钢结构技术规范>_2",
+            "content": [
+              {
+                "title": "2．1术语",
+                "index": "test_<冷弯薄壁型钢结构技术规范>_2.1",
+                "ul": "C:\\Users\\GIGABYTE\\Desktop\\源代码成果\\rag_git\\standard-rag\\test\\冷弯薄壁型钢结构技术规范\\0003.html",
+                "net_ul": "https://song4875343.github.io/test/冷弯薄壁型钢结构技术规范/0003.html"
+              },
+              {
+                "title": "2．2符号",
+                "index": "test_<冷弯薄壁型钢结构技术规范>_2.2",
+                "ul": "C:\\Users\\GIGABYTE\\Desktop\\源代码成果\\rag_git\\standard-rag\\test\\冷弯薄壁型钢结构技术规范\\0005.html",
+                "net_ul": "https://song4875343.github.io/test/冷弯薄壁型钢结构技术规范/0005.html"
+              }
+            ]
+          },
+          {
+            "title": "3材料",
+            "index": "test_<冷弯薄壁型钢结构技术规范>_3",
+            "content": [
+              {
+                "title": "3材料",
+                "index": "test_<冷弯薄壁型钢结构技术规范>_3.0",
+                "ul": "C:\\Users\\GIGABYTE\\Desktop\\源代码成果\\rag_git\\standard-rag\\test\\冷弯薄壁型钢结构技术规范\\0006.html",
+                "net_ul": "https://song4875343.github.io/test/冷弯薄壁型钢结构技术规范/0006.html"
+              }
+            ]
+          },
+          {
+            "title": "4基本设计规定",
+            "index": "test_<冷弯薄壁型钢结构技术规范>_4",
+            "content": [
+              {
+                "title": "4．1设计原则",
+                "index": "test_<冷弯薄壁型钢结构技术规范>_4.1",
+                "ul": "C:\\Users\\GIGABYTE\\Desktop\\源代码成果\\rag_git\\standard-rag\\test\\冷弯薄壁型钢结构技术规范\\0007.html",
+                "net_ul": "https://song4875343.github.io/test/冷弯薄壁型钢结构技术规范/0007.html"
+              },
+              {
+                "title": "4．2设计指标",
+                "index": "test_<冷弯薄壁型钢结构技术规范>_4.2",
+                "ul": "C:\\Users\\GIGABYTE\\Desktop\\源代码成果\\rag_git\\standard-rag\\test\\冷弯薄壁型钢结构技术规范\\0009.html",
+                "net_ul": "https://song4875343.github.io/test/冷弯薄壁型钢结构技术规范/0009.html"
+              },
+              {
+                "title": "4．3构造的一般规定",
+                "index": "test_<冷弯薄壁型钢结构技术规范>_4.3",
+                "ul": "C:\\Users\\GIGABYTE\\Desktop\\源代码成果\\rag_git\\standard-rag\\test\\冷弯薄壁型钢结构技术规范\\0010.html",
+                "net_ul": "https://song4875343.github.io/test/冷弯薄壁型钢结构技术规范/0010.html"
+              }
+            ]
+          },
+          {
+            "title": "5构件的计算",
+            "index": "test_<冷弯薄壁型钢结构技术规范>_5",
+            "content": [
+              {
+                "title": "5．1轴心受拉构件",
+                "index": "test_<冷弯薄壁型钢结构技术规范>_5.1",
+                "ul": "C:\\Users\\GIGABYTE\\Desktop\\源代码成果\\rag_git\\standard-rag\\test\\冷弯薄壁型钢结构技术规范\\0011.html",
+                "net_ul": "https://song4875343.github.io/test/冷弯薄壁型钢结构技术规范/0011.html"
+              },
+              {
+                "title": "5．2轴心受压构件",
+                "index": "test_<冷弯薄壁型钢结构技术规范>_5.2",
+                "ul": "C:\\Users\\GIGABYTE\\Desktop\\源代码成果\\rag_git\\standard-rag\\test\\冷弯薄壁型钢结构技术规范\\0013.html",
+                "net_ul": "https://song4875343.github.io/test/冷弯薄壁型钢结构技术规范/0013.html"
+              },
+              {
+                "title": "5．3受弯构件",
+                "index": "test_<冷弯薄壁型钢结构技术规范>_5.3",
+                "ul": "C:\\Users\\GIGABYTE\\Desktop\\源代码成果\\rag_git\\standard-rag\\test\\冷弯薄壁型钢结构技术规范\\0014.html",
+                "net_ul": "https://song4875343.github.io/test/冷弯薄壁型钢结构技术规范/0014.html"
+              },
+              {
+                "title": "5．4拉弯构件",
+                "index": "test_<冷弯薄壁型钢结构技术规范>_5.4",
+                "ul": "C:\\Users\\GIGABYTE\\Desktop\\源代码成果\\rag_git\\standard-rag\\test\\冷弯薄壁型钢结构技术规范\\0015.html",
+                "net_ul": "https://song4875343.github.io/test/冷弯薄壁型钢结构技术规范/0015.html"
+              },
+              {
+                "title": "5．5压弯构件",
+                "index": "test_<冷弯薄壁型钢结构技术规范>_5.5",
+                "ul": "C:\\Users\\GIGABYTE\\Desktop\\源代码成果\\rag_git\\standard-rag\\test\\冷弯薄壁型钢结构技术规范\\0016.html",
+                "net_ul": "https://song4875343.github.io/test/冷弯薄壁型钢结构技术规范/0016.html"
+              },
+              {
+                "title": "5．6构件中的受压板件",
+                "index": "test_<冷弯薄壁型钢结构技术规范>_5.6",
+                "ul": "C:\\Users\\GIGABYTE\\Desktop\\源代码成果\\rag_git\\standard-rag\\test\\冷弯薄壁型钢结构技术规范\\0017.html",
+                "net_ul": "https://song4875343.github.io/test/冷弯薄壁型钢结构技术规范/0017.html"
+              }
+            ]
+          },
+          {
+            "title": "6连接的计算与构造",
+            "index": "test_<冷弯薄壁型钢结构技术规范>_6",
+            "content": [
+              {
+                "title": "6．1连接的计算",
+                "index": "test_<冷弯薄壁型钢结构技术规范>_6.1",
+                "ul": "C:\\Users\\GIGABYTE\\Desktop\\源代码成果\\rag_git\\standard-rag\\test\\冷弯薄壁型钢结构技术规范\\0018.html",
+                "net_ul": "https://song4875343.github.io/test/冷弯薄壁型钢结构技术规范/0018.html"
+              },
+              {
+                "title": "6．2连接的构造",
+                "index": "test_<冷弯薄壁型钢结构技术规范>_6.2",
+                "ul": "C:\\Users\\GIGABYTE\\Desktop\\源代码成果\\rag_git\\standard-rag\\test\\冷弯薄壁型钢结构技术规范\\0020.html",
+                "net_ul": "https://song4875343.github.io/test/冷弯薄壁型钢结构技术规范/0020.html"
+              }
+            ]
+          },
+          {
+            "title": "7压型钢板",
+            "index": "test_<冷弯薄壁型钢结构技术规范>_7",
+            "content": [
+              {
+                "title": "7．1压型钢板的计算",
+                "index": "test_<冷弯薄壁型钢结构技术规范>_7.1",
+                "ul": "C:\\Users\\GIGABYTE\\Desktop\\源代码成果\\rag_git\\standard-rag\\test\\冷弯薄壁型钢结构技术规范\\0021.html",
+                "net_ul": "https://song4875343.github.io/test/冷弯薄壁型钢结构技术规范/0021.html"
+              },
+              {
+                "title": "7．2压型钢板的构造",
+                "index": "test_<冷弯薄壁型钢结构技术规范>_7.2",
+                "ul": "C:\\Users\\GIGABYTE\\Desktop\\源代码成果\\rag_git\\standard-rag\\test\\冷弯薄壁型钢结构技术规范\\0023.html",
+                "net_ul": "https://song4875343.github.io/test/冷弯薄壁型钢结构技术规范/0023.html"
+              }
+            ]
+          },
+          {
+            "title": "8檩条与墙梁",
+            "index": "test_<冷弯薄壁型钢结构技术规范>_8",
+            "content": [
+              {
+                "title": "8．1檩条的计算",
+                "index": "test_<冷弯薄壁型钢结构技术规范>_8.1",
+                "ul": "C:\\Users\\GIGABYTE\\Desktop\\源代码成果\\rag_git\\standard-rag\\test\\冷弯薄壁型钢结构技术规范\\0024.html",
+                "net_ul": "https://song4875343.github.io/test/冷弯薄壁型钢结构技术规范/0024.html"
+              },
+              {
+                "title": "8．2檩条的构造",
+                "index": "test_<冷弯薄壁型钢结构技术规范>_8.2",
+                "ul": "C:\\Users\\GIGABYTE\\Desktop\\源代码成果\\rag_git\\standard-rag\\test\\冷弯薄壁型钢结构技术规范\\0026.html",
+                "net_ul": "https://song4875343.github.io/test/冷弯薄壁型钢结构技术规范/0026.html"
+              },
+              {
+                "title": "8．3墙梁的计算",
+                "index": "test_<冷弯薄壁型钢结构技术规范>_8.3",
+                "ul": "C:\\Users\\GIGABYTE\\Desktop\\源代码成果\\rag_git\\standard-rag\\test\\冷弯薄壁型钢结构技术规范\\0027.html",
+                "net_ul": "https://song4875343.github.io/test/冷弯薄壁型钢结构技术规范/0027.html"
+              },
+              {
+                "title": "8．4墙梁的构造",
+                "index": "test_<冷弯薄壁型钢结构技术规范>_8.4",
+                "ul": "C:\\Users\\GIGABYTE\\Desktop\\源代码成果\\rag_git\\standard-rag\\test\\冷弯薄壁型钢结构技术规范\\0028.html",
+                "net_ul": "https://song4875343.github.io/test/冷弯薄壁型钢结构技术规范/0028.html"
+              }
+            ]
+          },
+          {
+            "title": "9屋架",
+            "index": "test_<冷弯薄壁型钢结构技术规范>_9",
+            "content": [
+              {
+                "title": "9．1屋架的计算",
+                "index": "test_<冷弯薄壁型钢结构技术规范>_9.1",
+                "ul": "C:\\Users\\GIGABYTE\\Desktop\\源代码成果\\rag_git\\standard-rag\\test\\冷弯薄壁型钢结构技术规范\\0029.html",
+                "net_ul": "https://song4875343.github.io/test/冷弯薄壁型钢结构技术规范/0029.html"
+              },
+              {
+                "title": "9．2屋架的构造",
+                "index": "test_<冷弯薄壁型钢结构技术规范>_9.2",
+                "ul": "C:\\Users\\GIGABYTE\\Desktop\\源代码成果\\rag_git\\standard-rag\\test\\冷弯薄壁型钢结构技术规范\\0031.html",
+                "net_ul": "https://song4875343.github.io/test/冷弯薄壁型钢结构技术规范/0031.html"
+              }
+            ]
+          },
+          {
+            "title": "10刚架",
+            "index": "test_<冷弯薄壁型钢结构技术规范>_10",
+            "content": [
+              {
+                "title": "10．1刚架的计算",
+                "index": "test_<冷弯薄壁型钢结构技术规范>_10.1",
+                "ul": "C:\\Users\\GIGABYTE\\Desktop\\源代码成果\\rag_git\\standard-rag\\test\\冷弯薄壁型钢结构技术规范\\0032.html",
+                "net_ul": "https://song4875343.github.io/test/冷弯薄壁型钢结构技术规范/0032.html"
+              },
+              {
+                "title": "10．2刚架的构造",
+                "index": "test_<冷弯薄壁型钢结构技术规范>_10.2",
+                "ul": "C:\\Users\\GIGABYTE\\Desktop\\源代码成果\\rag_git\\standard-rag\\test\\冷弯薄壁型钢结构技术规范\\0034.html",
+                "net_ul": "https://song4875343.github.io/test/冷弯薄壁型钢结构技术规范/0034.html"
+              }
+            ]
+          },
+          {
+            "title": "11制作、安装和防腐蚀",
+            "index": "test_<冷弯薄壁型钢结构技术规范>_11",
+            "content": [
+              {
+                "title": "11．1制作和安装",
+                "index": "test_<冷弯薄壁型钢结构技术规范>_11.1",
+                "ul": "C:\\Users\\GIGABYTE\\Desktop\\源代码成果\\rag_git\\standard-rag\\test\\冷弯薄壁型钢结构技术规范\\0035.html",
+                "net_ul": "https://song4875343.github.io/test/冷弯薄壁型钢结构技术规范/0035.html"
+              },
+              {
+                "title": "11．2防腐蚀",
+                "index": "test_<冷弯薄壁型钢结构技术规范>_11.2",
+                "ul": "C:\\Users\\GIGABYTE\\Desktop\\源代码成果\\rag_git\\standard-rag\\test\\冷弯薄壁型钢结构技术规范\\0037.html",
+                "net_ul": "https://song4875343.github.io/test/冷弯薄壁型钢结构技术规范/0037.html"
+              }
+            ]
+          },
+          {
+            "title": "附录A计算系数",
+            "index": "test_<冷弯薄壁型钢结构技术规范>_A",
+            "content": [
+              {
+                "title": "附录A计算系数",
+                "index": "test_<冷弯薄壁型钢结构技术规范>_A.0",
+                "ul": "C:\\Users\\GIGABYTE\\Desktop\\源代码成果\\rag_git\\standard-rag\\test\\冷弯薄壁型钢结构技术规范\\0038.html",
+                "net_ul": "https://song4875343.github.io/test/冷弯薄壁型钢结构技术规范/0038.html"
+              }
+            ]
+          },
+          {
+            "title": "2受弯构件的整体稳定系数",
+            "index": "test_<冷弯薄壁型钢结构技术规范>_(条文解释)2",
+            "content": [
+              {
+                "title": "2受弯构件的整体稳定系数",
+                "index": "test_<冷弯薄壁型钢结构技术规范>_2.0",
+                "ul": "C:\\Users\\GIGABYTE\\Desktop\\源代码成果\\rag_git\\standard-rag\\test\\冷弯薄壁型钢结构技术规范\\0040.html",
+                "net_ul": "https://song4875343.github.io/test/冷弯薄壁型钢结构技术规范/0040.html"
+              }
+            ]
+          },
+          {
+            "title": "3刚架柱的计算长度系数",
+            "index": "test_<冷弯薄壁型钢结构技术规范>_(条文解释)3",
+            "content": [
+              {
+                "title": "3．1等截面刚架柱的计算长度系数μ见表A.3．1。",
+                "index": "test_<冷弯薄壁型钢结构技术规范>_3.1",
+                "ul": "C:\\Users\\GIGABYTE\\Desktop\\源代码成果\\rag_git\\standard-rag\\test\\冷弯薄壁型钢结构技术规范\\0041.html",
+                "net_ul": "https://song4875343.github.io/test/冷弯薄壁型钢结构技术规范/0041.html"
+              }
+            ]
+          },
+          {
+            "title": "4简支梁的双力矩B的计算",
+            "index": "test_<冷弯薄壁型钢结构技术规范>_(条文解释)4",
+            "content": [
+              {
+                "title": "4．1简支梁的双力矩B可根据荷载情况按表A.4．1中所列公式计算。",
+                "index": "test_<冷弯薄壁型钢结构技术规范>_(条文解释)4.1",
+                "ul": "C:\\Users\\GIGABYTE\\Desktop\\源代码成果\\rag_git\\standard-rag\\test\\冷弯薄壁型钢结构技术规范\\0042.html",
+                "net_ul": "https://song4875343.github.io/test/冷弯薄壁型钢结构技术规范/0042.html"
+              }
+            ]
+          },
+          {
+            "title": "附录B截面特性",
+            "index": "test_<冷弯薄壁型钢结构技术规范>_B",
+            "content": [
+              {
+                "title": "附录B截面特性",
+                "index": "test_<冷弯薄壁型钢结构技术规范>_B.0",
+                "ul": "C:\\Users\\GIGABYTE\\Desktop\\源代码成果\\rag_git\\standard-rag\\test\\冷弯薄壁型钢结构技术规范\\0043.html",
+                "net_ul": "https://song4875343.github.io/test/冷弯薄壁型钢结构技术规范/0043.html"
+              }
+            ]
+          },
+          {
+            "title": "2截面特性的近似计算公式",
+            "index": "test_<冷弯薄壁型钢结构技术规范>_(条文解释)2",
+            "content": [
+              {
+                "title": "2截面特性的近似计算公式",
+                "index": "test_<冷弯薄壁型钢结构技术规范>_(条文解释)2.0",
+                "ul": "C:\\Users\\GIGABYTE\\Desktop\\源代码成果\\rag_git\\standard-rag\\test\\冷弯薄壁型钢结构技术规范\\0045.html",
+                "net_ul": "https://song4875343.github.io/test/冷弯薄壁型钢结构技术规范/0045.html"
+              }
+            ]
+          },
+          {
+            "title": "附录C考虑冷弯效应的强度设计值的计算方法",
+            "index": "test_<冷弯薄壁型钢结构技术规范>_C",
+            "content": [
+              {
+                "title": "0．1考虑冷弯效应的强度设计值f＇可按下式计算：",
+                "index": "test_<冷弯薄壁型钢结构技术规范>_0.1",
+                "ul": "C:\\Users\\GIGABYTE\\Desktop\\源代码成果\\rag_git\\standard-rag\\test\\冷弯薄壁型钢结构技术规范\\0046.html",
+                "net_ul": "https://song4875343.github.io/test/冷弯薄壁型钢结构技术规范/0046.html"
+              }
+            ]
+          },
+          {
+            "title": "附录D侵蚀作用分类和防腐涂料底、面漆配套及维护年限",
+            "index": "test_<冷弯薄壁型钢结构技术规范>_D",
+            "content": [
+              {
+                "title": "0．1外界条件对冷弯薄壁型钢结构的侵蚀作用分类可按表D.0．1采用。",
+                "index": "test_<冷弯薄壁型钢结构技术规范>_(条文解释)0.1",
+                "ul": "C:\\Users\\GIGABYTE\\Desktop\\源代码成果\\rag_git\\standard-rag\\test\\冷弯薄壁型钢结构技术规范\\0047.html",
+                "net_ul": "https://song4875343.github.io/test/冷弯薄壁型钢结构技术规范/0047.html"
+              }
+            ]
+          },
+          {
+            "title": "1总则",
+            "index": "test_<冷弯薄壁型钢结构技术规范>_(条文解释)1",
+            "content": [
+              {
+                "title": "1总则",
+                "index": "test_<冷弯薄壁型钢结构技术规范>_(条文解释)1.0",
+                "ul": "C:\\Users\\GIGABYTE\\Desktop\\源代码成果\\rag_git\\standard-rag\\test\\冷弯薄壁型钢结构技术规范\\0050.html",
+                "net_ul": "https://song4875343.github.io/test/冷弯薄壁型钢结构技术规范/0050.html"
+              }
+            ]
+          },
+          {
+            "title": "3材料",
+            "index": "test_<冷弯薄壁型钢结构技术规范>_(条文解释)3",
+            "content": [
+              {
+                "title": "3材料",
+                "index": "test_<冷弯薄壁型钢结构技术规范>_(条文解释)3.0",
+                "ul": "C:\\Users\\GIGABYTE\\Desktop\\源代码成果\\rag_git\\standard-rag\\test\\冷弯薄壁型钢结构技术规范\\0051.html",
+                "net_ul": "https://song4875343.github.io/test/冷弯薄壁型钢结构技术规范/0051.html"
+              }
+            ]
+          },
+          {
+            "title": "4基本设计规定",
+            "index": "test_<冷弯薄壁型钢结构技术规范>_(条文解释)4",
+            "content": [
+              {
+                "title": "4．1设计原则",
+                "index": "test_<冷弯薄壁型钢结构技术规范>_(条文解释)4.1",
+                "ul": "C:\\Users\\GIGABYTE\\Desktop\\源代码成果\\rag_git\\standard-rag\\test\\冷弯薄壁型钢结构技术规范\\0052.html",
+                "net_ul": "https://song4875343.github.io/test/冷弯薄壁型钢结构技术规范/0052.html"
               }
             ]
           }
